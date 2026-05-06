@@ -9,7 +9,7 @@ body{
 	background-color:#f5f5f5;
 	
 }
-.header{
+header{
 	text-align:center;
 	height:50px;
 	width:100%;
@@ -59,6 +59,7 @@ p{
 	border-radius:15%;
 	background-color:white;
 	margin-top:5px;
+	text-align: center;
 }
 
 img{
